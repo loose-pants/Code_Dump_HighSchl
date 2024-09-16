@@ -1,3 +1,6 @@
+print("holla My dear friend Paarth u Vakhriya")
+#from your dear friend 
+
 for i in range(6):
     for j in range(6):
         if i==j and i>j or i<j :
